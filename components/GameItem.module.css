@@ -1,0 +1,10 @@
+
+.gameItem {
+    display: inline-block;
+    margin: 18px;
+}
+
+.gameInfo {
+    position: absolute;
+    font-size: smaller;
+}

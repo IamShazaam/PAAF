@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "title": "Golden Joker",
+        "provider": "NetEnt",
+        "image": "/resources/game-golden-joker.webp"
+    },
+    {
+        "id": 2,
+        "title": "Casino Island",
+        "provider": "Paf Studios",
+        "image": "/resources/game-casino-island.webp"
+    },
+    {
+        "id": 3,
+        "title": "Schlager Slotten",
+        "provider": "Paf Studios",
+        "image": "/resources/game-schlager-slotten.webp"
+    },
+    {
+        "id": 4,
+        "title": "Cash & Carry",
+        "provider": "Paf Studios",
+        "image": "/resources/game-cash-carry.webp"
+    },
+    {
+        "id": 5,
+        "title": "Golden Joker",
+        "provider": "NetEnt",
+        "image": "/resources/game-golden-joker.webp"
+    },
+    {
+        "id": 6,
+        "title": "Casino Island",
+        "provider": "Paf Studios",
+        "image": "/resources/game-casino-island.webp"
+    },
+    {
+        "id": 7,
+        "title": "Schlager Slotten",
+        "provider": "Paf Studios",
+        "image": "/resources/game-schlager-slotten.webp"
+    },
+    {
+        "id": 8,
+        "title": "Cash & Carry",
+        "provider": "Paf Studios",
+        "image": "/resources/game-cash-carry.webp"
+    },
+    {
+        "id": 9,
+        "title": "Golden Joker",
+        "provider": "NetEnt",
+        "image": "/resources/game-golden-joker.webp"
+    },
+    {
+        "id": 10,
+        "title": "Casino Island",
+        "provider": "Paf Studios",
+        "image": "/resources/game-casino-island.webp"
+    },
+    {
+        "id": 11,
+        "title": "Schlager Slotten",
+        "provider": "Paf Studios",
+        "image": "/resources/game-schlager-slotten.webp"
+    },
+    {
+        "id": 12,
+        "title": "Cash & Carry",
+        "provider": "Paf Studios",
+        "image": "/resources/game-cash-carry.webp"
+    }
+]

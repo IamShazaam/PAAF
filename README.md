@@ -32,8 +32,8 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
  * Every fix will be written as a comment out
 
   1. Searching for any letter ✅
-    1.1 The letter "&" changes to "and" automatically when sendid to the api in order to make "& Carry" work provisionally.
-        * With extra time I would make sure the api reads the letter "&" when sended from the input.
+      * The letter "&" changes to "and" automatically when sendid to the api in order to make "& Carry" work provisionally.
+      * With extra time I would make sure the api reads the letter "&" when sended from the input.
   2. ERROR: "client.js:1 Warning: A component is changing an uncontrolled input to be controlled" ✅
         * Handled the selection when the ID is not valid
   2. Showing the real games ✅
